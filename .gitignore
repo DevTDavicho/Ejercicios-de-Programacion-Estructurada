@@ -1,0 +1,7 @@
+.vscode
+
+# Ignorar binarios y archivos de compilación
+/UnidadII_Secuenciales/C/bin/*.exe
+
+# Ignorar archvios específicos
+/UnidadII_Secuenciales/C/test.c
