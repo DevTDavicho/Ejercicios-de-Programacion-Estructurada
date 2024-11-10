@@ -19,8 +19,8 @@ Para ejecutar los ejemplos, selecciona el archivo correspondiente y sigue las in
 
 ### C
    ```bash
-   gcc ejercicio2_1.c -o ejercicio2_1
-   ./ejercicio2_1
+   gcc ejercicio2_1.c -o ./bin/ejercicio2_1.exe
+   ./bin/ejercicio2_1.exe
    ```
 <!-- ### Python
    ```bash
